@@ -1,3 +1,2 @@
 commit3
-logout
-login
+login and logout
